@@ -1,0 +1,52 @@
+[
+    {
+        "name": "Pikachu",
+        "sprite": "assets/images/pikachu.png",
+        "type": "Electric"
+    },
+    {
+        "name": "Charmander",
+        "sprite": "assets/images/charmander.png",
+        "type": "Fire"
+    },
+    {
+        "name": "Bulbasaur",
+        "sprite": "assets/images/bulbasaur.png",
+        "type": "Grass"
+    },
+    {
+        "name": "Squirtle",
+        "sprite": "assets/images/squirtle.png",
+        "type": "Water"
+    },
+    {
+        "name": "Jigglypuff",
+        "sprite": "assets/images/jigglypuff.png",
+        "type": "Normal"
+    },
+    {
+        "name": "Meowth",
+        "sprite": "assets/images/meowth.png",
+        "type": "Normal"
+    },
+    {
+        "name": "Psyduck",
+        "sprite": "assets/images/psyduck.png",
+        "type": "Water"
+    },
+    {
+        "name": "Machop",
+        "sprite": "assets/images/machop.png",
+        "type": "Fighting"
+    },
+    {
+        "name": "Gastly",
+        "sprite": "assets/images/gastly.png",
+        "type": "Ghost"
+    },
+    {
+        "name": "Eevee",
+        "sprite": "assets/images/eevee.png",
+        "type": "Normal"
+    }
+]
