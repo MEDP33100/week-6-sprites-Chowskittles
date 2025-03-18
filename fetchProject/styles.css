@@ -1,0 +1,57 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f8f8f8;
+}
+
+h1 {
+    color: #333;
+}
+
+.pokemon-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 15px;
+    margin-top: 20px;
+}
+
+.pokemon-card {
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    padding: 10px;
+    width: 120px;
+    text-align: center;
+    transition: transform 0.2s;
+}
+
+.pokemon-card:hover {
+    transform: scale(1.1);
+}
+
+.pokemon-card img {
+    width: 80px;
+    height: 80px;
+}
+
+.pokemon-name {
+    font-size: 1.1em;
+    font-weight: bold;
+    margin: 5px 0;
+}
+
+.pokemon-type {
+    font-size: 0.9em;
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.Electric { background-color: yellow; color: black; }
+.Fire { background-color: orange; }
+.Water { background-color: blue; }
+.Grass { background-color: green; }
+.Normal { background-color: gray; }
+.Fighting { background-color: brown; }
+.Ghost { background-color: purple; }
